@@ -12,7 +12,7 @@ module.exports = {
       white: "#FFFFFF",
       dark_blue: "#1C232B",
       dark_gray_blue: "#6C7289",
-
+      link_blue: "#3E52A3"
     },
     fontFamily: {
       montserrat: ['"Montserrat"', "ui-sans-serif", "system-ui"],
