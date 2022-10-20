@@ -23,7 +23,6 @@ module.exports = {
     },
     colors:{
       dark_cyan: "#3C8067",
-      light_cyan: "#39AC82",
       cream: "#F2EBE3",
       white: "#FFFFFF",
       dark_blue: "#1C232B",

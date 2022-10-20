@@ -10,14 +10,14 @@ export default function Home() {
 
       <div className="min-h-screen md:grid flex items-center md:items-center">
 
-        <div className=" shadow-lg rounded-xl md:grid md:grid-cols-2 bg-white md:h-[490px] md:w-[625px] mx-auto md:justify-center w-[375px]">
+        <div className=" shadow-lg rounded-xl md:grid md:grid-cols-2 bg-white md:h-[470px] md:w-[625px] mx-auto md:justify-center w-[375px]">
 
           <div className="hidden md:block">
               <Image
                 className="rounded-l-xl"
                 src={ImgDesktop} 
                 alt="image"
-                height={942}/>
+                height={903}/>
           </div>
 
           <div className="block md:hidden">
@@ -37,13 +37,13 @@ export default function Home() {
 
             <div className=" flex justify-between items-center">
 
-              <p className="text-light_cyan text-4xl font-fraunces ">$149.99</p>
+              <p className="text-dark_cyan text-4xl font-fraunces ">$149.99</p>
 
               <p className=" font-montserrat text-sm text-dark_gray_blue line-through justify-items-center md:mr-8 mr-16">$169.99</p>
 
             </div>
 
-            <div className=" bg-light_cyan justify-center items-center p-3 rounded-lg flex gap-2 hover:bg-dark_cyan cursor-pointer">
+            <div className=" bg-dark_cyan justify-center items-center p-3 rounded-lg flex gap-2 hover:bg-dark_cyan cursor-pointer">
 
               <Image src={Cart} alt="cart" />
 
