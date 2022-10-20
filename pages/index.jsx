@@ -33,7 +33,7 @@ export default function Home() {
 
             <h1 className=" font-fraunces font-bold text-dark_blue md:text-4xl text-3xl">Gabrielle Essence Eau De Parfum</h1>
 
-            <p className="font-montserrat text-dark_gray_blue md:text-base text-sm">A floral, solar and voluptuous interpretation composed by Olivier Polge, Perfumer-Creator for the House of CHANEL.</p>
+            <p className="font-montserrat text-dark_gray_blue text-sm">A floral, solar and voluptuous interpretation composed by Olivier Polge, Perfumer-Creator for the House of CHANEL.</p>
 
             <div className=" flex justify-between items-center">
 
