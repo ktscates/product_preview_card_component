@@ -6,7 +6,7 @@ import Cart from "../assets/icon-cart.svg"
 export default function Home() {
 
   return (
-    <main className="bg-cream max-w-[1440px] mx-auto">
+    <main className="bg-cream max-w-[1440px] mx-auto min-w-[375px]">
 
       <div className="min-h-screen md:grid flex items-center md:items-center">
 
